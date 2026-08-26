@@ -42,6 +42,15 @@ In this practical, I  have solved the knapsack problem using dynamic programming
 # Conclusion :
 In this experiment that Dynamic Programming can be a help, for solving the Knapsack Problem. By dividing the Knapsack Problem into parts the method saves a lot of time. Each part is solved once and the result is kept for future use. This way the program never repeats the work. The result is that the program finds the value that fits within the given capacity. The running time grows as O(n × W). That makes the solution fast enough for input sizes.
 
+# Practical 6 : Implementation of chain matrix multiplication using dynamic programming
+
+# Summary :
+In this Practical, I implemented Chain Matrix Multiplication using Dynamic Programming. The program takes the dimensions of the matrices as input and finds the best order to multiply them. Dynamic Programming is used to store the results of smaller problems and avoid repeated calculations.
+
+# Conclusion : 
+In this Practical, I learned how Dynamic Programming can be used to find the minimum number of multiplications needed to multiply a chain of matrices. The program gives the optimal multiplication order and reduces unnecessary calculations. 
+
+
 # Practical 7 : Implementation of making a change problem using dynamic programming 
 
 # Summary : 
