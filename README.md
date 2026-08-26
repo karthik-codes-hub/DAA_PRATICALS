@@ -33,6 +33,15 @@ In this practical, We implemented Factorial Program using the iterative and recu
 # Conclusion : 
 In this practical, I have seen the difference between the iterative approach and recursive approach to solving the factorial problem. While both approaches have the same answer and are of the order O(n) in terms of time complexity, the iterative approach is more efficient when it comes to the use of memory. Iterative approach uses less memory compare to the Recursive approach.
 
+
+# Practical 5 : Implementation of a knapsack problem using dynamic programming
+
+# Summary :
+In this practical, I  have solved the knapsack problem using dynamic programming by using the weights, values and capacity The Knapsack Problem program takes the weight and value of each item along with the capacity of the knapsack, as input. The  Knapsack Problem program uses a programming table to find the combination of items that gives the maximum possible value without exceeding the given capacity.
+
+# Conclusion :
+In this experiment that Dynamic Programming can be a help, for solving the Knapsack Problem. By dividing the Knapsack Problem into parts the method saves a lot of time. Each part is solved once and the result is kept for future use. This way the program never repeats the work. The result is that the program finds the value that fits within the given capacity. The running time grows as O(n × W). That makes the solution fast enough for input sizes.
+
 # Practical 7 : Implementation of making a change problem using dynamic programming 
 
 # Summary : 
