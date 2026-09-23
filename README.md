@@ -59,3 +59,14 @@ Making change problem is solved with the help of Dynamic Programming algorithm. 
 # Conclusion : 
 
 This practical demonstrates how dynamic programming algorithm helps to solve the making change problem by dividing it into sub-problems and storing the sub-solutions. In comparison to the recursive solution, dynamic programming does not repeat the computation of the same sub-problem and solves it efficiently.
+
+
+# Practical 8 : Implementation of Graph and Searching (DFS and BFS)
+
+# Summary :
+In this practical, I implemented Depth-First Search (DFS) and Breadth-First Search (BFS) in a graph. DFS was implemented using the Stack data structure, while BFS was implemented using the Queue data structure. An Adjacency List was used to represent the graph and its connections, along with a visited set to keep track of visited and unvisited nodes.
+
+# Conclusion :
+
+In this practical, I successfully implemented DFS and BFS graph traversal. DFS was performed using a Stack, while BFS was performed using a Queue. I also used an Adjacency List to represent the graph and a visited set to track the nodes. This practical helped me understand how DFS and BFS work and how they traverse a graph in different ways.
+
