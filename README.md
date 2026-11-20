@@ -57,7 +57,6 @@ In this Practical, I learned how Dynamic Programming can be used to find the min
 Making change problem is solved with the help of Dynamic Programming algorithm. This program takes coin denomination and the value as input from the user and calculates the number of coins required to make that amount. A dynamic programming table is used to store the previously computed results to avoid re-computations. The time complexity of the algorithm is O(n × A).
 
 # Conclusion : 
-
 This practical demonstrates how dynamic programming algorithm helps to solve the making change problem by dividing it into sub-problems and storing the sub-solutions. In comparison to the recursive solution, dynamic programming does not repeat the computation of the same sub-problem and solves it efficiently.
 
 
@@ -67,6 +66,40 @@ This practical demonstrates how dynamic programming algorithm helps to solve the
 In this practical, I implemented Depth-First Search (DFS) and Breadth-First Search (BFS) in a graph. DFS was implemented using the Stack data structure, while BFS was implemented using the Queue data structure. An Adjacency List was used to represent the graph and its connections, along with a visited set to keep track of visited and unvisited nodes.
 
 # Conclusion :
-
 In this practical, I successfully implemented DFS and BFS graph traversal. DFS was performed using a Stack, while BFS was performed using a Queue. I also used an Adjacency List to represent the graph and a visited set to track the nodes. This practical helped me understand how DFS and BFS work and how they traverse a graph in different ways.
 
+
+# Practical 9 : Implement prim’s algorithm
+
+# Summary:
+In this practical, I implemented Prim's Algorithm to find the Minimum Spanning Tree of a graph. It selects the smallest edge one by one and connects all vertices without forming a cycle.
+
+# Conclusion:
+From this practical, I learned how Prim's Algorithm works and how to find the minimum cost to connect all vertices in a graph.
+
+
+# Practical 10 : Implement Kruskal’s algorithm
+
+# Summary:
+In this practical, we implemented Kruskal's Algorithm to find the Minimum Spanning Tree of a graph. The algorithm selects the edges with the smallest weights without forming a cycle. It continues until all vertices are connected.
+
+# Conclusion:
+From this practical, I learned how Kruskal's Algorithm works and how to find the minimum cost of connecting all vertices in a graph.
+
+
+# Prqactical 11 : Write a program for Floyd-Warshal algorithm
+
+# Summary:
+In this practical, we implemented the Floyd-Warshall Algorithm to find the shortest distances between all pairs of vertices in a graph. It checks different possible paths and selects the shortest distance.
+
+# Conclusion:
+From this practical, I learned how to find the shortest paths between all pairs of vertices using the Floyd-Warshall Algorithm.
+
+
+# Practical 12 : Write a program for travelling salesman problem
+
+# Summary:
+In this practical, I implemented the Travelling Salesman Problem using Python. The program checks different possible routes, calculates their total costs, and finds the shortest route to visit all cities and return to the starting city.
+
+# Conclusion:
+From this practical, I learned how to find the shortest possible route between cities with minimum travel cost using the Travelling Salesman Problem.
